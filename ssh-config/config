@@ -1,4 +1,0 @@
-# ssh configuration
-Host github.com
-  User git
-  IdentityFile ~/.ssh/github_ed25519
